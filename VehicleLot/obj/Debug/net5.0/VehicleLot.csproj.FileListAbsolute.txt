@@ -1,0 +1,16 @@
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.exe
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.deps.json
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.runtimeconfig.json
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.runtimeconfig.dev.json
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.dll
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\ref\VehicleLot.dll
+C:\nelnet-projects\VehicleLot\VehicleLot\bin\Debug\net5.0\VehicleLot.pdb
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.csproj.AssemblyReference.cache
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.AssemblyInfoInputs.cache
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.AssemblyInfo.cs
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.csproj.CoreCompileInputs.cache
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.dll
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\ref\VehicleLot.dll
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.pdb
+C:\nelnet-projects\VehicleLot\VehicleLot\obj\Debug\net5.0\VehicleLot.genruntimeconfig.cache
